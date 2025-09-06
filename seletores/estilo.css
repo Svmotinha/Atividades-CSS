@@ -1,0 +1,10 @@
+/*Sleciona h1 e p */
+
+h1,
+p {
+    color:blue;
+}
+/*Selecione a dentro de p */
+p a {
+    color:green;
+}
